@@ -213,6 +213,7 @@ section .item-x .grey-star {
 		text-align: left;
 		display: block;
 		float: left;
+		/* transition: 4s; */
 	}
 }
 
